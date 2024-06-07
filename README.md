@@ -9,3 +9,8 @@
 ## Git
 
 - [Pro git](https://git-scm.com/book/zh/v2)
+
+## Tmux（终端复用器）
+
+- [Tmux 使用教程-阮一峰](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
+- [Tmux 使用手册](https://louiszhai.github.io/2017/09/30/tmux/)
