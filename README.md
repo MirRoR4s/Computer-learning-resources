@@ -8,7 +8,7 @@
 
 ## Git
 
-- [Pro git](https://git-scm.com/book/zh/v2)
+- [Pro git-中文版](https://git-scm.com/book/zh/v2)：2014 年的书籍了，稍微有些过时。
 
 ## Tmux（终端复用器）
 
