@@ -1,6 +1,10 @@
 # Computer-learning-resources
 汇总我的计算机学习资源
 
+## Python
+
+- [Python 语言基础 50 课](https://github.com/jackfrued/Python-Core-50-Courses/tree/master)：讲的挺好的，适合入门。
+
 ## FastAPI
 
 - [官方教程-中文版](https://fastapi.tiangolo.com/zh/tutorial/)
