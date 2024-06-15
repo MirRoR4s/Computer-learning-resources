@@ -14,6 +14,8 @@
 
 - [Pro git-中文版](https://git-scm.com/book/zh/v2)：2014 年的书籍了，稍微有些过时。此外中文版的翻译不是很好。
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
+- [重命名分支](https://www.freecodecamp.org/chinese/news/git-rename-branch-how-to-change-a-local-branch-name/)
+- [配置代理]()
 ## Tmux（终端复用器）
 
 - [Tmux 使用教程-阮一峰](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
