@@ -1,14 +1,23 @@
 # Computer-learning-resources
+
+## 前言
+
 汇总我的计算机学习资源
 
-## Python
+## 编程语言
+
+### Python
+1. [官方教程](https://docs.python.org/zh-cn/3/tutorial/index.html)
+2. [python 之禅](https://pythontips.readthedocs.io/zh/latest/2016-03-07-iterator-and-generator/)
+
+学完以上两个，或能写出地道的 python 代码。
 
 - [Python 语言基础 50 课](https://github.com/jackfrued/Python-Core-50-Courses/tree/master)：讲的挺好的，适合入门。
 
 ## FastAPI
 
 - [官方教程-中文版](https://fastapi.tiangolo.com/zh/tutorial/)
-- [FastAPI 最佳实践-参考](https://github.com/zhanymkanov/fastapi-best-practices)
+- [他人总结得 FastAPI 最佳实践](https://github.com/zhanymkanov/fastapi-best-practices)
 
 ## Git
 
@@ -16,6 +25,7 @@
 - [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
 - [重命名分支](https://www.freecodecamp.org/chinese/news/git-rename-branch-how-to-change-a-local-branch-name/)
 - [配置代理]()
+
 ## Tmux（终端复用器）
 
 - [Tmux 使用教程-阮一峰](https://www.ruanyifeng.com/blog/2019/10/tmux.html)
