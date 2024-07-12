@@ -4,6 +4,14 @@
 
 汇总我的计算机学习资源
 
+## Web 开发
+
+Web 开发跟随 MDN 的脚步即可，学习完毕之后上手 React 或者 Vue 的官方教程应该就没什么问题了。
+
+1. HTML
+2. [CSS 教程](https://developer.mozilla.org/zh-CN/docs/Learn/CSS)
+3. JavaScript
+
 ## 编程语言
 
 ### Python
@@ -17,7 +25,7 @@
 ## FastAPI
 
 - [官方教程-中文版](https://fastapi.tiangolo.com/zh/tutorial/)
-- [他人总结得 FastAPI 最佳实践](https://github.com/zhanymkanov/fastapi-best-practices)
+- [他人总结的 FastAPI 最佳实践](https://github.com/zhanymkanov/fastapi-best-practices)
 
 ## Git
 
