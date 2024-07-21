@@ -44,9 +44,7 @@ Web 开发跟随 MDN 的脚步即可，学习完毕之后上手 React 或者 Vue
 - [MIT 6.031 软件构造](https://web.mit.edu/6.031/www/sp21/)
 - [6.031 中文翻译-工大李秋豪](https://www.cnblogs.com/liqiuhao/category/1167752.html)
 
-## Restful API 设计指南
+## 数据库
 
-- [Restful API 接口设计](https://crifan.github.io/http_restful_api/website/restful_rule/rule.html)
-- [Restful API 设计指南](https://www.ruanyifeng.com/blog/2014/05/restful_api.html)
-- [Restful API 设计最佳实践](https://kaelzhang81.github.io/2019/05/24/Restful-API%E8%AE%BE%E8%AE%A1%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/)
-- [Restful API 最佳实践](https://www.freecodecamp.org/chinese/news/rest-api-best-practices-rest-endpoint-design-examples/)
+- [SQL样式指南](https://www.sqlstyle.guide/zh/)：描述SQL语句的编写规范等。
+
