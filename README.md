@@ -45,6 +45,6 @@ Web 开发跟随 MDN 的脚步即可，学习完毕之后上手 React 或者 Vue
 - [6.031 中文翻译-工大李秋豪](https://www.cnblogs.com/liqiuhao/category/1167752.html)
 
 ## 数据库
-
+- [w3School-sql](https://www.w3schools.com/sql/)
 - [SQL样式指南](https://www.sqlstyle.guide/zh/)：描述SQL语句的编写规范等。
 
