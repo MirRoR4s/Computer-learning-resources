@@ -46,5 +46,5 @@ Web 开发跟随 MDN 的脚步即可，学习完毕之后上手 React 或者 Vue
 
 ## 数据库
 - [w3School-sql](https://www.w3schools.com/sql/)
-- [SQL样式指南](https://www.sqlstyle.guide/zh/)：描述SQL语句的编写规范等，值得注意的是指南中的写法似乎没有太好的插件支持，所以只能自己手动调整格式。
+- [SQL样式指南](https://www.sqlstyle.guide/zh/)：描述SQL语句的编写规范等，有一款名为 Prettier SQL VSCode 的插件支持这种格式。
 
